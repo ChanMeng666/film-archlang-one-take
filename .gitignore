@@ -1,0 +1,21 @@
+# build outputs
+dist/
+build/
+node_modules/
+_frames_*/
+# sample libraries are fetched, never committed (see scripts/fetch_samples.sh)
+samples/
+# python
+venv/
+.venv/
+__pycache__/
+*.pyc
+# large media
+*.wav
+*.m4a
+*.mp4
+# release assets are uploaded to the GitHub Release by hand
+release_assets/
+# OS / editor
+.DS_Store
+Thumbs.db

@@ -1,0 +1,8 @@
+events checked: 113
+1) score entry within 1 ms of event: 113/113  (max 0.0 ms)
+2) audio onsets found: 194; event→nearest audio onset: median 2.5 ms, within 1 frame (33 ms): 72/113, within 2 ms-hops of 15 ms: 69/113
+   events without an onset within 33 ms: [('type', 3.1, 210), ('type', 7.125, 122), ('type', 7.25, 190), ('type', 7.625, 125), ('type', 9.25, 245), ('type', 10, 248), ('type', 10.125, 373), ('type', 10.25, 250), ('type', 10.375, 125), ('type', 11, 123), ('type', 11.625, 127), ('type', 11.75, 252), ('type', 12, 502), ('type', 12.125, 627), ('type', 12.5, 502), ('room', 7.25, 190), ('window', 9.25, 245), ('furn2d', 10, 248), ('furn2d', 10.125, 373), ('furn2d', 10.25, 250)]
+3) events on the 1/8-beat grid (0.25 s): 91/113; events with a drum hit at that exact time: 86/113; within 1 beat-subdivision (0.25 s): 101/113
+   events > 0.25 s from any drum hit: [('type', 1.2), ('type', 1.55), ('type', 2), ('type', 2.4), ('type', 2.75), ('type', 3.1), ('type', 12.5), ('grid', 2), ('north', 2.4), ('result', 12.5), ('dims', 12.5), ('chips', 30.5)]
+4) attack contrast at event time (>800 Hz, after/before): ≥ +3 dB for 38/113 events, ≥ +1 dB for 67/113; weakest: [('slide', 17, -1.5), ('sub', 30, -1.5), ('type', 7.125, -1.0), ('furn3d', 15.75, -0.9), ('type', 10, -0.8), ('furn2d', 10, -0.8), ('type', 12.125, -0.7), ('slogan', 29, -0.7)]
+   by type (median dB): {'chips': 1.9, 'collapse': 2.0, 'dims': -0.6, 'door': 3.3, 'door_open': 4.7, 'furn2d': 0.4, 'furn3d': 1.4, 'grid': 21.7, 'letters': 1.3, 'lift': 2.4, 'logo': 9.0, 'north': 3.6, 'result': -0.6, 'rise': 2.3, 'roof_land': 4.0, 'roof_off': 3.2, 'roof_start': 3.5, 'room': 1.7, 'slide': -1.5, 'slogan': 0.0, 'sub': -1.5, 'title': -0.1, 'type': 1.5, 'wall': 4.8, 'whoosh_up': 5.4, 'window': 2.6}

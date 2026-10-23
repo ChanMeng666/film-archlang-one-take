@@ -1,0 +1,786 @@
+{
+ "meta": {
+  "dur": 32,
+  "fps": 30,
+  "bpm": 120
+ },
+ "events": [
+  {
+   "name": "intro",
+   "t": 0
+  },
+  {
+   "name": "type",
+   "t": 1.2,
+   "len": 1,
+   "chars": 22
+  },
+  {
+   "name": "type",
+   "t": 1.55,
+   "len": 0.5,
+   "chars": 10
+  },
+  {
+   "name": "type",
+   "t": 2,
+   "len": 0.5,
+   "chars": 9
+  },
+  {
+   "name": "type",
+   "t": 2.4,
+   "len": 0.5,
+   "chars": 10
+  },
+  {
+   "name": "type",
+   "t": 2.75,
+   "len": 0.5,
+   "chars": 15
+  },
+  {
+   "name": "type",
+   "t": 3.1,
+   "len": 0.6,
+   "chars": 23
+  },
+  {
+   "name": "type",
+   "t": 4,
+   "len": 0.85,
+   "chars": 61
+  },
+  {
+   "name": "type",
+   "t": 4.5,
+   "len": 0.85,
+   "chars": 67
+  },
+  {
+   "name": "type",
+   "t": 5,
+   "len": 0.85,
+   "chars": 67
+  },
+  {
+   "name": "type",
+   "t": 5.5,
+   "len": 0.85,
+   "chars": 61
+  },
+  {
+   "name": "type",
+   "t": 6,
+   "len": 0.85,
+   "chars": 67
+  },
+  {
+   "name": "type",
+   "t": 6.5,
+   "len": 0.85,
+   "chars": 70
+  },
+  {
+   "name": "type",
+   "t": 7,
+   "len": 0.7,
+   "chars": 85
+  },
+  {
+   "name": "type",
+   "t": 7.125,
+   "len": 0.25,
+   "chars": 43
+  },
+  {
+   "name": "type",
+   "t": 7.25,
+   "len": 0.25,
+   "chars": 54
+  },
+  {
+   "name": "type",
+   "t": 7.5,
+   "len": 0.5,
+   "chars": 57
+  },
+  {
+   "name": "type",
+   "t": 7.625,
+   "len": 0.2,
+   "chars": 3
+  },
+  {
+   "name": "type",
+   "t": 8,
+   "len": 0.8,
+   "chars": 81
+  },
+  {
+   "name": "type",
+   "t": 8.25,
+   "len": 0.45,
+   "chars": 68
+  },
+  {
+   "name": "type",
+   "t": 8.5,
+   "len": 0.45,
+   "chars": 74
+  },
+  {
+   "name": "type",
+   "t": 8.75,
+   "len": 0.45,
+   "chars": 64
+  },
+  {
+   "name": "type",
+   "t": 9,
+   "len": 0.7,
+   "chars": 39
+  },
+  {
+   "name": "type",
+   "t": 9.25,
+   "len": 0.45,
+   "chars": 39
+  },
+  {
+   "name": "type",
+   "t": 9.5,
+   "len": 0.45,
+   "chars": 39
+  },
+  {
+   "name": "type",
+   "t": 9.75,
+   "len": 0.45,
+   "chars": 38
+  },
+  {
+   "name": "type",
+   "t": 10,
+   "len": 0.75,
+   "chars": 66
+  },
+  {
+   "name": "type",
+   "t": 10.125,
+   "len": 0.3,
+   "chars": 66
+  },
+  {
+   "name": "type",
+   "t": 10.25,
+   "len": 0.3,
+   "chars": 66
+  },
+  {
+   "name": "type",
+   "t": 10.375,
+   "len": 0.3,
+   "chars": 66
+  },
+  {
+   "name": "type",
+   "t": 10.5,
+   "len": 0.45,
+   "chars": 71
+  },
+  {
+   "name": "type",
+   "t": 10.75,
+   "len": 0.45,
+   "chars": 65
+  },
+  {
+   "name": "type",
+   "t": 11,
+   "len": 0.45,
+   "chars": 91
+  },
+  {
+   "name": "type",
+   "t": 11.125,
+   "len": 0.3,
+   "chars": 91
+  },
+  {
+   "name": "type",
+   "t": 11.25,
+   "len": 0.3,
+   "chars": 96
+  },
+  {
+   "name": "type",
+   "t": 11.5,
+   "len": 0.45,
+   "chars": 67
+  },
+  {
+   "name": "type",
+   "t": 11.625,
+   "len": 0.3,
+   "chars": 67
+  },
+  {
+   "name": "type",
+   "t": 11.75,
+   "len": 0.3,
+   "chars": 67
+  },
+  {
+   "name": "type",
+   "t": 12,
+   "len": 0.45,
+   "chars": 73
+  },
+  {
+   "name": "type",
+   "t": 12.125,
+   "len": 0.2,
+   "chars": 1
+  },
+  {
+   "name": "type",
+   "t": 12.5,
+   "len": 0.8999999999999986,
+   "chars": 56,
+   "cmd": 1
+  },
+  {
+   "name": "grid",
+   "t": 2
+  },
+  {
+   "name": "north",
+   "t": 2.4
+  },
+  {
+   "name": "wall",
+   "t": 4,
+   "id": "w_lane"
+  },
+  {
+   "name": "wall",
+   "t": 4.5,
+   "id": "w_east"
+  },
+  {
+   "name": "wall",
+   "t": 5,
+   "id": "w_garden"
+  },
+  {
+   "name": "wall",
+   "t": 5.5,
+   "id": "w_west"
+  },
+  {
+   "name": "wall",
+   "t": 6,
+   "id": "w_hall"
+  },
+  {
+   "name": "wall",
+   "t": 6.5,
+   "id": "w_bath"
+  },
+  {
+   "name": "room",
+   "t": 7,
+   "id": "r_live"
+  },
+  {
+   "name": "room",
+   "t": 7.25,
+   "id": "r_bath"
+  },
+  {
+   "name": "room",
+   "t": 7.5,
+   "id": "r_bed"
+  },
+  {
+   "name": "door",
+   "t": 8,
+   "id": "d_front"
+  },
+  {
+   "name": "door",
+   "t": 8.25,
+   "id": "d_garden"
+  },
+  {
+   "name": "door",
+   "t": 8.5,
+   "id": "d_bed"
+  },
+  {
+   "name": "door",
+   "t": 8.75,
+   "id": "d_bath"
+  },
+  {
+   "name": "window",
+   "t": 9,
+   "id": "win_west"
+  },
+  {
+   "name": "window",
+   "t": 9.25,
+   "id": "win_garden1"
+  },
+  {
+   "name": "window",
+   "t": 9.5,
+   "id": "win_garden2"
+  },
+  {
+   "name": "window",
+   "t": 9.75,
+   "id": "win_east"
+  },
+  {
+   "name": "furn2d",
+   "t": 10,
+   "id": "fridge"
+  },
+  {
+   "name": "furn2d",
+   "t": 10.125,
+   "id": "stove"
+  },
+  {
+   "name": "furn2d",
+   "t": 10.25,
+   "id": "sink"
+  },
+  {
+   "name": "furn2d",
+   "t": 10.375,
+   "id": "counter"
+  },
+  {
+   "name": "furn2d",
+   "t": 10.5,
+   "id": "rug"
+  },
+  {
+   "name": "furn2d",
+   "t": 10.75,
+   "id": "table"
+  },
+  {
+   "name": "furn2d",
+   "t": 11,
+   "id": "sofa"
+  },
+  {
+   "name": "furn2d",
+   "t": 11.125,
+   "id": "bed"
+  },
+  {
+   "name": "furn2d",
+   "t": 11.25,
+   "id": "robe"
+  },
+  {
+   "name": "furn2d",
+   "t": 11.5,
+   "id": "shower"
+  },
+  {
+   "name": "furn2d",
+   "t": 11.625,
+   "id": "wc"
+  },
+  {
+   "name": "furn2d",
+   "t": 11.75,
+   "id": "basin"
+  },
+  {
+   "name": "title",
+   "t": 12
+  },
+  {
+   "name": "result",
+   "t": 12.5
+  },
+  {
+   "name": "dims",
+   "t": 12.5
+  },
+  {
+   "name": "still",
+   "t": 13.25
+  },
+  {
+   "name": "rise",
+   "t": 14,
+   "id": "w_lane"
+  },
+  {
+   "name": "rise",
+   "t": 14.25,
+   "id": "w_east"
+  },
+  {
+   "name": "rise",
+   "t": 14.5,
+   "id": "w_garden"
+  },
+  {
+   "name": "rise",
+   "t": 14.75,
+   "id": "w_west"
+  },
+  {
+   "name": "rise",
+   "t": 15,
+   "id": "w_hall"
+  },
+  {
+   "name": "rise",
+   "t": 15.25,
+   "id": "w_bath"
+  },
+  {
+   "name": "lift",
+   "t": 14
+  },
+  {
+   "name": "furn3d",
+   "t": 15,
+   "id": "fridge"
+  },
+  {
+   "name": "furn3d",
+   "t": 15.125,
+   "id": "stove"
+  },
+  {
+   "name": "furn3d",
+   "t": 15.25,
+   "id": "sink"
+  },
+  {
+   "name": "furn3d",
+   "t": 15.375,
+   "id": "counter"
+  },
+  {
+   "name": "furn3d",
+   "t": 15.5,
+   "id": "rug"
+  },
+  {
+   "name": "furn3d",
+   "t": 15.75,
+   "id": "table"
+  },
+  {
+   "name": "furn3d",
+   "t": 16,
+   "id": "sofa"
+  },
+  {
+   "name": "furn3d",
+   "t": 16.125,
+   "id": "bed"
+  },
+  {
+   "name": "furn3d",
+   "t": 16.25,
+   "id": "robe"
+  },
+  {
+   "name": "furn3d",
+   "t": 16.5,
+   "id": "shower"
+  },
+  {
+   "name": "furn3d",
+   "t": 16.625,
+   "id": "wc"
+  },
+  {
+   "name": "furn3d",
+   "t": 16.75,
+   "id": "basin"
+  },
+  {
+   "name": "door_open",
+   "t": 16.25,
+   "id": "d_front"
+  },
+  {
+   "name": "slide",
+   "t": 17
+  },
+  {
+   "name": "door_open",
+   "t": 19,
+   "id": "d_bed"
+  },
+  {
+   "name": "whoosh_up",
+   "t": 20.5,
+   "dur": 2
+  },
+  {
+   "name": "roof_start",
+   "t": 21.5
+  },
+  {
+   "name": "roof_land",
+   "t": 23
+  },
+  {
+   "name": "roof_off",
+   "t": 24
+  },
+  {
+   "name": "collapse",
+   "t": 24.25,
+   "id": 0
+  },
+  {
+   "name": "collapse",
+   "t": 24.75,
+   "id": 1
+  },
+  {
+   "name": "collapse",
+   "t": 25.25,
+   "id": 2
+  },
+  {
+   "name": "collapse",
+   "t": 25.75,
+   "id": 3
+  },
+  {
+   "name": "collapse",
+   "t": 26.125,
+   "id": 4
+  },
+  {
+   "name": "collapse",
+   "t": 26.375,
+   "id": 5
+  },
+  {
+   "name": "logo",
+   "t": 28
+  },
+  {
+   "name": "letters",
+   "t": 28.25
+  },
+  {
+   "name": "slogan",
+   "t": 29,
+   "id": 0
+  },
+  {
+   "name": "slogan",
+   "t": 29.25,
+   "id": 1
+  },
+  {
+   "name": "slogan",
+   "t": 29.5,
+   "id": 2
+  },
+  {
+   "name": "sub",
+   "t": 30
+  },
+  {
+   "name": "chips",
+   "t": 30.5
+  }
+ ],
+ "K": {
+  "walls": {
+   "w_lane": 8,
+   "w_east": 9,
+   "w_garden": 10,
+   "w_west": 11,
+   "w_hall": 12,
+   "w_bath": 13
+  },
+  "rooms": {
+   "r_live": 14,
+   "r_bath": 14.5,
+   "r_bed": 15
+  },
+  "doors": {
+   "d_front": 16,
+   "d_garden": 16.5,
+   "d_bed": 17,
+   "d_bath": 17.5
+  },
+  "wins": {
+   "win_west": 18,
+   "win_garden1": 18.5,
+   "win_garden2": 19,
+   "win_east": 19.5
+  },
+  "furn": [
+   [
+    "fridge",
+    20
+   ],
+   [
+    "stove",
+    20.25
+   ],
+   [
+    "sink",
+    20.5
+   ],
+   [
+    "counter",
+    20.75
+   ],
+   [
+    "rug",
+    21
+   ],
+   [
+    "table",
+    21.5
+   ],
+   [
+    "sofa",
+    22
+   ],
+   [
+    "bed",
+    22.25
+   ],
+   [
+    "robe",
+    22.5
+   ],
+   [
+    "shower",
+    23
+   ],
+   [
+    "wc",
+    23.25
+   ],
+   [
+    "basin",
+    23.5
+   ]
+  ],
+  "grid": 4,
+  "north": 4.8,
+  "dimsLine": 5.5,
+  "title": 24,
+  "cmdStart": 24.1,
+  "result": 25,
+  "dims": [
+   25,
+   26.5
+  ],
+  "lift": 28,
+  "liftOrder": [
+   "w_lane",
+   "w_east",
+   "w_garden",
+   "w_west",
+   "w_hall",
+   "w_bath"
+  ],
+  "liftBeat": [
+   28,
+   28.5,
+   29,
+   29.5,
+   30,
+   30.5
+  ],
+  "furn3d": [
+   [
+    "fridge",
+    30
+   ],
+   [
+    "stove",
+    30.25
+   ],
+   [
+    "sink",
+    30.5
+   ],
+   [
+    "counter",
+    30.75
+   ],
+   [
+    "rug",
+    31
+   ],
+   [
+    "table",
+    31.5
+   ],
+   [
+    "sofa",
+    32
+   ],
+   [
+    "bed",
+    32.25
+   ],
+   [
+    "robe",
+    32.5
+   ],
+   [
+    "shower",
+    33
+   ],
+   [
+    "wc",
+    33.25
+   ],
+   [
+    "basin",
+    33.5
+   ]
+  ],
+  "doorFront": 32.5,
+  "slide": 34,
+  "doorBed": 38,
+  "roofStart": 43,
+  "roofLand": 46,
+  "roofOff": 48,
+  "collapse": [
+   48.5,
+   49.5,
+   50.5,
+   51.5,
+   52.25,
+   52.75
+  ],
+  "logo": 56,
+  "letters": 56.5,
+  "slogan": [
+   58,
+   58.5,
+   59
+  ],
+  "sub": 60,
+  "chips": 61
+ }
+}

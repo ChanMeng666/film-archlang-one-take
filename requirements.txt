@@ -1,0 +1,6 @@
+# Versions below are the ones the film was built with (Python 3.13).
+numpy>=2.5
+scipy>=1.18
+soundfile>=0.14
+pyloudnorm>=0.2
+playwright>=1.64
