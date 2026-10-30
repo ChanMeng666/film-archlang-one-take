@@ -1,13 +1,12 @@
-# archlang-promo-threejs
-
+# film-archlang-one-take
 **A 32-second, one-take promo film for [archlang](https://github.com/ChanMeng666/archlang) — a language that lets AI write floor plans as code.** Lines of code become plan lines, the plan grows into a small 3D house, the house folds back into the plan, and the take ends on the logo. Rendered from a single three.js html file, scored with real instrument samples, all of it reproducible from this repository.
 
 <p align="center">
-  <a href="https://github.com/ChanMeng666/archlang-promo-threejs/releases/latest"><img src="docs/preview.gif" alt="Preview of the archlang promo film (animated, 800 px, 10 fps)" width="800"></a>
+  <a href="https://github.com/ChanMeng666/film-archlang-one-take/releases/latest"><img src="docs/preview.gif" alt="Preview of the archlang promo film (animated, 800 px, 10 fps)" width="800"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ChanMeng666/archlang-promo-threejs/releases/latest"><b>▶ Watch the film (Release assets)</b></a> ·
+  <a href="https://github.com/ChanMeng666/film-archlang-one-take/releases/latest"><b>▶ Watch the film (Release assets)</b></a> ·
   <a href="https://github.com/ChanMeng666/archlang">archlang</a> ·
   <a href="CREDITS.md">Credits &amp; licences</a>
 </p>
@@ -146,14 +145,14 @@ archlang-promo-threejs/
 └── docs/  preview.gif  stills/  drum_timetable.md  beat_to_animation.md  verify_sync.txt
 ```
 
-Not in git (built or fetched locally): `dist/`, `build/`, `node_modules/`, `samples/`, `release_assets/`. The finished film, soundtrack and the single-file html are attached to the [Release](https://github.com/ChanMeng666/archlang-promo-threejs/releases/latest).
+Not in git (built or fetched locally): `dist/`, `build/`, `node_modules/`, `samples/`, `release_assets/`. The finished film, soundtrack and the single-file html are attached to the [Release](https://github.com/ChanMeng666/film-archlang-one-take/releases/latest).
 
 ## Reproduce
 
 Requirements (the versions the film was built and tested with): Python 3.13, Node 20, `ffmpeg`, `git`, Google Chrome (or Playwright's Chromium, see below). Blender 5.x is only needed to rebuild the glb (a built copy is committed). No GPU is needed.
 
 ```bash
-git clone https://github.com/ChanMeng666/archlang-promo-threejs.git && cd archlang-promo-threejs
+git clone https://github.com/ChanMeng666/film-archlang-one-take.git && cd archlang-promo-threejs
 
 # 0. dependencies
 python3 -m venv venv && . venv/bin/activate        # Windows: venv\Scripts\activate

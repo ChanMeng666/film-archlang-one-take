@@ -1,11 +1,11 @@
 {
-  "name": "archlang-promo-threejs",
+  "name": "film-archlang-one-take",
   "version": "1.0.0",
   "description": "A 32-second one-take promo film for archlang, rendered from a single three.js html file with a sample-based score.",
   "private": true,
   "license": "MIT",
   "author": "ChanMeng666",
-  "repository": { "type": "git", "url": "git+https://github.com/ChanMeng666/archlang-promo-threejs.git" },
+  "repository": { "type": "git", "url": "git+https://github.com/ChanMeng666/film-archlang-one-take.git" },
   "scripts": {
     "bundle": "esbuild src/entry.js --bundle --minify --format=iife --outfile=build/three.bundle.js"
   },
